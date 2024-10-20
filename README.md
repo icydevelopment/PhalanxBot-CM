@@ -1,5 +1,5 @@
 CM's mode is added to PhalanxBot(7.37).
-
+Currently, both teams required to have a human captain.
 Copy and paste hero_selection.lua file to folder \Steam\steamapps\workshop\content\570\2873408973. AP game mode remains unchanged.
 
 Captain's mode utilizes picks order for role decision.So:
