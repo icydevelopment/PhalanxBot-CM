@@ -16,6 +16,7 @@ You must be sure that the hero that you pick for the role is included in Phalanx
 
 You may find below a list of heroes that the bot can play for each role as well by defualt.
 
+```lua
 PRoles["SafeLane"] = {
 	"npc_dota_hero_nevermore",
 	"npc_dota_hero_sven",
@@ -188,3 +189,4 @@ PRoles["HardSupport"] = {
 	"npc_dota_hero_pudge",
 	"npc_dota_hero_bristleback",
 }
+```
