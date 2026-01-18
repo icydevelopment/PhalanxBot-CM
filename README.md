@@ -1,4 +1,4 @@
-CM's mode is added to PhalanxBot(7.40).
+CM's mode is added to PhalanxBot(7.40b).
 
 Currently, both teams required to have a human captain.
 
@@ -36,3 +36,4 @@ Pick 5 -> Hard Support
 You can pick whichever you want and the bots play the remaining roles. It works same for both dire and radiant teams.
 
 ***You must be sure that the hero that you pick for the role is included in PhalanxRoles file in directory \Steam\steamapps\workshop\content\570\2873408973\Library
+** If you replace HeroInfo folder with the one here, you may pick any core to any core role, and any support to soft or hard support role. However, they might not play properly.
